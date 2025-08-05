@@ -63,7 +63,7 @@ If the user is not found:
 ```json
 {
   "status": 404,
-  "message": "User Exzstic not found"
+  "message": "User Exzustic not found"
 }
 ```
 
